@@ -80,6 +80,9 @@ button:hover{
 	color: #FFE5C8;
 	background: rgba(0, 0, 0, .4);
 }
+.web p, .identity p, .gap, .box_text, .heading p, .said p, .said1 p,.header1 p{
+	color:#9B9B9B;
+}
 .details{
 	overflow: hidden;
 	margin-top: 80px;

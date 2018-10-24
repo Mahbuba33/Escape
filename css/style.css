@@ -138,6 +138,7 @@ h6{
 .box_1, .box_2, .box_3 {
 	overflow: hidden;
 	padding-bottom: 40px;
+	padding-left: 60px;
 }
 .box_left, .box_right {
 	width: 50%;
